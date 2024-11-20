@@ -23,7 +23,7 @@ Enables admins to view all resignation requests.
 Resignation Approval (Backend/resignation-approval)
 Admins can approve/reject resignations. Sends status updates via NodeMailer.
 
-Exit Questionnaire (feature/exit-questionnaire)
+Exit Questionnaire (backend/exit-questionnaire)
 Employees can submit exit questionnaire responses; admins can view them.
 
 Endpoints Overview
